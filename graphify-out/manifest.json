@@ -1,0 +1,77 @@
+{
+  "Source/DSP/Filters.h": {
+    "mtime": 1792244799.9137108,
+    "ast_hash": "f8429ad7f4301c5d6efda3701660625f",
+    "semantic_hash": ""
+  },
+  "Source/DSP/GrandCavernsEngine.cpp": {
+    "mtime": 1792245701.935892,
+    "ast_hash": "c959c7eeba4e049db1f35c5ab121bf0b",
+    "semantic_hash": ""
+  },
+  "Source/DSP/GrandCavernsEngine.h": {
+    "mtime": 1792244853.174147,
+    "ast_hash": "72e1ead566442b989fb5bfe4fd34ad4a",
+    "semantic_hash": ""
+  },
+  "Source/GrandCavernsPresets.h": {
+    "mtime": 1792253210.4046767,
+    "ast_hash": "7f4655f88c510df426785872bdd702d5",
+    "semantic_hash": ""
+  },
+  "Source/ParameterIDs.h": {
+    "mtime": 1792244996.5068593,
+    "ast_hash": "3c0eb32152a1ac490b3b686c5f4c7650",
+    "semantic_hash": ""
+  },
+  "Source/PluginEditor.cpp": {
+    "mtime": 1792253556.7003765,
+    "ast_hash": "0c45e4758022203a570a28089a8078d0",
+    "semantic_hash": ""
+  },
+  "Source/PluginEditor.h": {
+    "mtime": 1792253390.1974282,
+    "ast_hash": "69e924e62dd0109c250cb34be9ec610c",
+    "semantic_hash": ""
+  },
+  "Source/PluginProcessor.cpp": {
+    "mtime": 1792253398.0404928,
+    "ast_hash": "8454b40af6cdc6ce8cd0b4338275ffa0",
+    "semantic_hash": ""
+  },
+  "Source/PluginProcessor.h": {
+    "mtime": 1792253217.9612315,
+    "ast_hash": "4fe75df5d587341915a77e4af4de409b",
+    "semantic_hash": ""
+  },
+  "tests/render_test.cpp": {
+    "mtime": 1792250756.8287427,
+    "ast_hash": "f085b9da239c31780554b822c0dcfafd",
+    "semantic_hash": ""
+  },
+  "CMakeLists.txt": {
+    "mtime": 1792253796.881523,
+    "ast_hash": "beb8918d4cd489bbb435b30d19c88c11",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792253396.638447,
+    "ast_hash": "72a2aef66edd8de784257d7293e73716",
+    "semantic_hash": ""
+  },
+  "build.sh": {
+    "mtime": 1792250253.4043221,
+    "ast_hash": "6185f826592c7dc25b62a97cf2089d22",
+    "semantic_hash": ""
+  },
+  "Source/PresetLibrary.cpp": {
+    "mtime": 1792253266.2639089,
+    "ast_hash": "dbf2a455ccbbe3242e3d1f6f954572d1",
+    "semantic_hash": ""
+  },
+  "Source/PresetLibrary.h": {
+    "mtime": 1792253223.6310513,
+    "ast_hash": "d88cc8a09211c9bc5c45ecbae8a4bd5f",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+e644d50a5da5e0da5fe192d94b07ba51 CMakeFiles/GrandCaverns_vst3_helper
+7f5614d23b219e8206a26439a3bde99b GrandCaverns_artefacts/JuceLibraryCode/GrandCaverns_AU/PkgInfo
+5dbe0441e90f84471e93c396086820f1 GrandCaverns_artefacts/JuceLibraryCode/GrandCaverns_Standalone/PkgInfo
+7f07c109a8e7f1eca7168f6c51dff34f GrandCaverns_artefacts/JuceLibraryCode/GrandCaverns_VST3/PkgInfo
